@@ -1,8 +1,8 @@
 # Hi there 👋
 ## I'm Sainingo
 
-- 🔭 I’m currently working on being a full stack developer at [Microverse Inc](https://www.microverse.org/)
-- 💻 Technologies: Javascript, Html, Css, React & Redux, Ruby, rails.
+- 🔭 I’m currently working on being a Full-stack developer at [Microverse Inc](https://www.microverse.org/)
+- 💻 Technologies: Javascript, Html, CSS, React & Redux, Ruby, Ruby & rails.
 - 🌱 I’m currently learning and looking for new opportunities
 - 📫 Contact me: sainingo254@gmail.com
 
