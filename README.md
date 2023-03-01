@@ -1,9 +1,9 @@
 # Hi there 👋
 ## I'm Sainingo
 
-- 🔭 I’m currently working on being a Full-stack developer at [Microverse Inc](https://www.microverse.org/)
-- 💻 Technologies: Javascript, Html, CSS, React & Redux, Ruby, Ruby & rails.
-- 🌱 I’m currently learning and looking for new opportunities
+- 🔭 I’m currently working as a junior developer at Ampath Kenya
+- 💻 Technologies: Javascript, Html, CSS,TailwindCSS, Nodejs, MySQL, React & Redux, Ruby & rails.
+- 🌱 I’m currently working on improving my skills
 - 📫 Contact me: sainingo254@gmail.com
 
 
