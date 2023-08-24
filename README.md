@@ -1,9 +1,9 @@
 # Hi there 👋
 ## I'm Sainingo
 
-- 🔭 I’m currently working as a junior developer at Ampath Kenya
-- 💻 Technologies: Javascript, Html, CSS,TailwindCSS, Nodejs, MySQL, React & Redux, Ruby & rails.
-- 🌱 I’m currently working on improving my skills
+- 🔭 I’m currently working as a Software developer at Ampath Kenya
+- 💻 Technologies: Javascript, Nodejs, MySQL, React, Ruby & rails, TailwindCSS.
+- 🌱 Am good at what I do!
 - 📫 Contact me: sainingo254@gmail.com
 
 
