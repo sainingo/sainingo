@@ -1,7 +1,7 @@
 # Hi there 👋
 ## I'm Sainingo
 
-- 🔭 I’m currently working as a Software developer at Ampath Kenya
+- 🔭 I’m a Software developer based in Kenya
 - 💻 Technologies: Javascript, Nodejs, MySQL, React, Ruby & rails, TailwindCSS.
 - 🌱 Am good at what I do!
 - 📫 Contact me: sainingo254@gmail.com
